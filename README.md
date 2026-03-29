@@ -4,7 +4,7 @@ I am a student who likes to code :D
 
 ## ✨ Projects
 
-
+I have a few projects which I'll upload at some point.
 
 ## 🖥️ Languages
 
@@ -19,9 +19,9 @@ I am a student who likes to code :D
 
 ## 📫 Contact
 
+If you have any questions or concerns, open an issue on the repository.
 
-
-## 🌐 Other Platforms
+<!--## 🌐 Other Platforms--!>
 
 
 
