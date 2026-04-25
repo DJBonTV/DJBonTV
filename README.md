@@ -9,7 +9,7 @@ I have a few projects which I'll upload at some point.
 ## 🖥️ Languages
 
 <div align="centre">
-  <a href="https://github.com/DJBonTV?tab=repositories&language=html"><img alt="C#" src="https://github.com/DJBonTV/DJBonTV/blob/main/Images/HTML.png" height="50px"></a>
+  <a href="https://github.com/DJBonTV?tab=repositories&language=html"><img alt="HTML" src="https://github.com/DJBonTV/DJBonTV/blob/main/Images/HTML.png" height="50px"></a>
   <a href="https://github.com/DJBonTV?tab=repositories&language=css"><img alt="CSS" src="https://github.com/DJBonTV/DJBonTV/blob/main/Images/CSS.png" height="50px"></a>
   <a href="https://github.com/DJBonTV?tab=repositories&language=javascript"><img alt="JavaScript" src="https://github.com/DJBonTV/DJBonTV/blob/main/Images/JavaScript.png" height="50px"></a>
   <a href="https://github.com/DJBonTV?tab=repositories&language=c%23"><img alt="C#" src="https://github.com/DJBonTV/DJBonTV/blob/main/Images/C%23.png" height="50px"></a>
