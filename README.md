@@ -12,7 +12,7 @@ I have a few projects which I'll upload at some point.
   <a href="https://github.com/DJBonTV?tab=repositories&language=html"><img alt="HTML" src="https://raw.githubusercontent.com/DJBonTV/DJBonTV/refs/heads/main/Images/HTML.png" height="50px"></a>
   <a href="https://github.com/DJBonTV?tab=repositories&language=css"><img alt="CSS" src="https://raw.githubusercontent.com/DJBonTV/DJBonTV/refs/heads/main/Images/CSS.png" height="50px"></a>
   <a href="https://github.com/DJBonTV?tab=repositories&language=javascript"><img alt="JavaScript" src="https://raw.githubusercontent.com/DJBonTV/DJBonTV/refs/heads/main/Images/JavaScript.png" height="50px"></a>
-  <a href="https://github.com/DJBonTV?tab=repositories&language=c%23"><img alt="C#" src="https://raw.githubusercontent.com/DJBonTV/DJBonTV/refs/heads/main/Images/C%23.png" height="50px"></a>
+  <a href="https://github.com/DJBonTV?tab=repositories&language=c%23"><img alt="C#" src="https://raw.githubusercontent.com/DJBonTV/DJBonTV/refs/heads/main/Images/CSharp.png" height="50px"></a>
   <a href="https://github.com/DJBonTV?tab=repositories&language=python"><img alt="Python" src="https://raw.githubusercontent.com/DJBonTV/DJBonTV/refs/heads/main/Images/Python.png" height="50px"></a>
   <a href="https://github.com/DJBonTV?tab=repositories&language=lua"><img alt="Lua" src="https://raw.githubusercontent.com/DJBonTV/DJBonTV/refs/heads/main/Images/Lua.png" height="50px"></a>
 </div>
